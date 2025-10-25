@@ -138,13 +138,8 @@ Throughout the project, I worked with **Convolutional Neural Networks (CNNs)** a
 4. **Run notebooks in order:**
 
    ```
-   NB1 → NB2 → NB3
+   NB1 → NB2 → NB3 → NB4
    ```
-
-5. **Generate predictions and submission file:**
-   The final trained model will produce a `submission.csv` for evaluation.
-
----
 
 ## 📊 Results Summary
 
