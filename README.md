@@ -1,5 +1,3 @@
-Perfect addition 🌍
-Here’s your **updated final version** of the README for the **Crop Disease in Uganda — WQU Work Simulation Project**, now including the **Data Pollution & Power (2022)** white paper context in a professional and integrated way under a dedicated sustainability section.
 
 ---
 
